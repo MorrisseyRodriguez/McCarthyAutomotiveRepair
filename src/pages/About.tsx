@@ -23,21 +23,21 @@ export default function About() {
               <div className="grid grid-cols-2 gap-4">
                 <div className="col-span-2">
                   <img
-                    src="/src/Images/20260326_105129.jpg"
+                    src="/images/20260326_105129.jpg"
                     alt="Auto repair service"
                     className="w-full h-[300px] object-cover rounded-lg shadow-lg"
                   />
                 </div>
                 <div>
                   <img
-                    src="/src/Images/20260326_105322.jpg"
+                    src="/images/20260326_105322.jpg"
                     alt="Auto diagnostic equipment"
                     className="w-full h-[250px] object-cover rounded-lg shadow-lg"
                   />
                 </div>
                 <div>
                   <img
-                    src="/src/Images/20260326_105334.jpg"
+                    src="/images/20260326_105334.jpg"
                     alt="Auto repair parts"
                     className="w-full h-[250px] object-cover rounded-lg shadow-lg"
                   />
