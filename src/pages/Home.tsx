@@ -195,7 +195,7 @@ export default function Home({ onNavigate }: HomeProps) {
               At McCarthy Automotive Repair, we find the real problem first, fix it right, and keep your costs fair.
             </p>
             <p className="text-lg sm:text-xl font-semibold text-gray-900">
-              45+ years of experience. Trusted by drivers across Norco.
+              Combined 80 years of service and experience by the team. Trusted by drivers across Norco.
             </p>
           </div>
         </div>
@@ -224,7 +224,7 @@ export default function Home({ onNavigate }: HomeProps) {
                 <Award className="text-white" size={32} />
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-4">
-                45 Years of Experience Means Fewer Surprises
+                Combined 80 Years of Service and Experience Means Fewer Surprises
               </h3>
               <p className="text-gray-700 leading-relaxed">
                 Foreign, domestic, diesel, electrical, transmission, doesn't matter. If it's under the hood, we've seen it, fixed it, and fixed it right.

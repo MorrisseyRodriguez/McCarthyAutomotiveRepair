@@ -6,7 +6,7 @@ export default function About() {
       <section className="py-16 lg:py-24">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl sm:text-5xl font-bold mb-6 text-gray-900">
-            45 Years, Serving Norco Drivers
+            Combined 80 Years of Service and Experience, Serving Norco Drivers
           </h1>
         </div>
       </section>
@@ -16,7 +16,7 @@ export default function About() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
             <div className="order-1 lg:order-1">
               <p className="text-lg text-gray-700 leading-relaxed">
-                With over 45 years of hands-on experience, Larry Whitcomb has built McCarthy Automotive Repair on one simple principle, take care of people the right way. When you bring your car in, you're not getting guesswork, upsells, or runaround. You're getting straight answers from someone who's spent decades diagnosing and fixing real problems on every type of vehicle, foreign, domestic, diesel, electrical, you name it. Whether it's routine maintenance or something more serious, you'll know exactly what's wrong, what it takes to fix it, and what it's going to cost. No surprises, no pressure, only honest work that gets you back on the road.
+                With a combined 80 years of service and experience by the team, Larry Whitcomb has built McCarthy Automotive Repair on one simple principle, take care of people the right way. When you bring your car in, you're not getting guesswork, upsells, or runaround. You're getting straight answers from someone who's spent decades diagnosing and fixing real problems on every type of vehicle, foreign, domestic, diesel, electrical, you name it. Whether it's routine maintenance or something more serious, you'll know exactly what's wrong, what it takes to fix it, and what it's going to cost. No surprises, no pressure, only honest work that gets you back on the road.
               </p>
             </div>
             <div className="order-2 lg:order-2">
@@ -93,7 +93,7 @@ export default function About() {
                 Quality Workmanship
               </h3>
               <p className="text-gray-700 text-lg leading-relaxed">
-                With 45+ years of experience, we've seen and fixed it all. Your repair is done right the first time, so you can drive with confidence.
+                With a combined 80 years of service and experience by the team, we've seen and fixed it all. Your repair is done right the first time, so you can drive with confidence.
               </p>
             </div>
           </div>

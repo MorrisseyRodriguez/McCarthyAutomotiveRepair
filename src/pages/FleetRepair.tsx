@@ -73,7 +73,7 @@ export default function FleetRepair() {
                   A Shop You Can Rely On
                 </h3>
                 <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                  With over 45 years of experience, McCarthy Automotive Repair has worked on everything from daily work vehicles to larger fleets.
+                  With a combined 80 years of service and experience by the team, McCarthy Automotive Repair has worked on everything from daily work vehicles to larger fleets.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed mb-4">
                   When you bring your vehicles to us, you're getting:

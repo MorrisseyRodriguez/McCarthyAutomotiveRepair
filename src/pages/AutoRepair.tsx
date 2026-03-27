@@ -18,7 +18,7 @@ export default function AutoRepair() {
               If something doesn't feel right with your car, don't ignore it.
             </h2>
             <p className="text-lg text-gray-700 leading-relaxed">
-              At McCarthy Automotive Repair, we help drivers in Norco quickly figure out what's wrong and get it fixed without the guesswork or unnecessary repairs. With over 45 years of hands-on experience, we've worked on everything, from daily drivers to diesel trucks, foreign and domestic.
+              At McCarthy Automotive Repair, we help drivers in Norco quickly figure out what's wrong and get it fixed without the guesswork or unnecessary repairs. With a combined 80 years of service and experience by the team, we've worked on everything, from daily drivers to diesel trucks, foreign and domestic.
             </p>
           </div>
 

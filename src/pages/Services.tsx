@@ -19,7 +19,7 @@ export default function Services() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
             <div>
               <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                At McCarthy Automotive Repair, we bring over 45 years of hands-on experience to every job. From routine maintenance to more complex repairs, we've got your vehicle covered, bumper to bumper.
+                At McCarthy Automotive Repair, we bring a combined 80 years of service and experience by the team to every job. From routine maintenance to more complex repairs, we've got your vehicle covered, bumper to bumper.
               </p>
               <p className="text-lg text-gray-700 mb-6 leading-relaxed">
                 We know car repairs aren't something anyone looks forward to. But when something feels off, it's better to take care of it early before it turns into a bigger issue.
