@@ -1,4 +1,4 @@
-import { Phone, Wrench, Award, DollarSign, Search, Star } from 'lucide-react';
+import { Phone, Wrench, Award, DollarSign, Clock, Star } from 'lucide-react';
 import { useState, useEffect, useRef } from 'react';
 
 interface HomeProps {
@@ -209,13 +209,13 @@ export default function Home({ onNavigate }: HomeProps) {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className="p-8 rounded-2xl hover:shadow-lg transition-shadow">
               <div className="bg-blue-600 w-16 h-16 rounded-full flex items-center justify-center mb-6">
-                <Search className="text-white" size={32} />
+                <Clock className="text-white" size={32} />
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-4">
-                We Fix the Problem, Not Guess at It
+                90% of Repairs Finished the Same Day
               </h3>
               <p className="text-gray-700 leading-relaxed">
-                Most shops start replacing parts and hoping it works. We start with a proper diagnostic, so you only pay for what your car actually needs.
+                We know you need your car. That's why most repairs are completed the same day you drop it off.
               </p>
             </div>
 
