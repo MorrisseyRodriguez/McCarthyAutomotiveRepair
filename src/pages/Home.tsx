@@ -160,7 +160,7 @@ export default function Home({ onNavigate }: HomeProps) {
       <section className="relative h-[70vh] lg:h-[72vh] flex items-center">
         <div className="absolute inset-0 z-0">
           <img
-            src="https://images.pexels.com/photos/3806288/pexels-photo-3806288.jpeg?auto=compress&cs=tinysrgb&w=1920"
+            src="/src/Images/20260326_105129.jpg"
             alt="Professional automotive repair"
             className="w-full h-full object-cover"
           />
@@ -274,7 +274,7 @@ export default function Home({ onNavigate }: HomeProps) {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="order-2 lg:order-1">
               <img
-                src="https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=1200"
+                src="/src/Images/20260326_105322.jpg"
                 alt="McCarthy Automotive Repair Shop"
                 className="w-full h-auto rounded-lg shadow-xl"
               />
@@ -339,7 +339,7 @@ export default function Home({ onNavigate }: HomeProps) {
               className="flex flex-wrap items-center justify-center gap-4 hover:opacity-80 transition-opacity"
             >
               <div className="flex items-center gap-2">
-                <img src="/images/yelp.png" alt="Yelp" className="h-8" />
+                <img src="/src/Images/yelp.png" alt="Yelp" className="h-8" />
                 <span className="text-gray-800 text-lg font-semibold">Yelp</span>
               </div>
               <div className="flex gap-1">
