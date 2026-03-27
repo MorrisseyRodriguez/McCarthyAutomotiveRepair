@@ -274,7 +274,7 @@ export default function Home({ onNavigate }: HomeProps) {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="order-2 lg:order-1">
               <img
-                src="/src/Images/20260326_105322.jpg"
+                src="/src/Images/20260326_105129.jpg"
                 alt="McCarthy Automotive Repair Shop"
                 className="w-full h-auto rounded-lg shadow-xl"
               />
