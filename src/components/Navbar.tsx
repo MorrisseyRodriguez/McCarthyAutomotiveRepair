@@ -38,8 +38,8 @@ export default function Navbar({ currentPage, onNavigate }: NavbarProps) {
             </a>
             <div className="flex items-center gap-2">
               <Clock size={16} />
-              <span className="hidden md:inline">MON - FRI: 8AM - 6PM | SAT: 8AM - 5PM</span>
-              <span className="md:hidden">MON-FRI: 8AM-6PM | SAT: 8AM-5PM</span>
+              <span className="hidden md:inline">MON - FRI: 8AM - 5PM | SAT-SUN: CLOSED</span>
+              <span className="md:hidden">MON-FRI: 8AM-5PM | SAT-SUN: CLOSED</span>
             </div>
           </div>
         </div>
