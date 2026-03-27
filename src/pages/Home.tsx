@@ -302,24 +302,16 @@ export default function Home({ onNavigate }: HomeProps) {
           <h2 className="text-3xl sm:text-4xl font-bold text-center text-gray-900 mb-12">
             Certified. Trusted. Proven.
           </h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div className="flex justify-center">
             <div className="text-center">
-              <div className="bg-gray-100 w-32 h-32 rounded-full flex items-center justify-center mx-auto mb-4">
-                <Award className="text-gray-700" size={64} />
+              <div className="flex items-center justify-center mx-auto mb-6">
+                <img
+                  src="/images/ase-logo-1A2E60A58F-seeklogo.com.png"
+                  alt="ASE Certified Logo"
+                  className="h-32 w-auto"
+                />
               </div>
               <h3 className="text-xl font-bold text-gray-900">ASE Certified</h3>
-            </div>
-            <div className="text-center">
-              <div className="bg-gray-100 w-32 h-32 rounded-full flex items-center justify-center mx-auto mb-4">
-                <Award className="text-gray-700" size={64} />
-              </div>
-              <h3 className="text-xl font-bold text-gray-900">TechNet Professional</h3>
-            </div>
-            <div className="text-center">
-              <div className="bg-gray-100 w-32 h-32 rounded-full flex items-center justify-center mx-auto mb-4">
-                <Award className="text-gray-700" size={64} />
-              </div>
-              <h3 className="text-xl font-bold text-gray-900">Smog Check Licensed</h3>
             </div>
           </div>
         </div>
