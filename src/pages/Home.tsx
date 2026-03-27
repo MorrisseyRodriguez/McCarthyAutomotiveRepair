@@ -1,4 +1,4 @@
-import { Phone, Wrench, Award, DollarSign, Clock, Star } from 'lucide-react';
+import { Phone, Wrench, Award, DollarSign, Clock, Star, Search } from 'lucide-react';
 import { useState, useEffect, useRef } from 'react';
 
 interface HomeProps {
