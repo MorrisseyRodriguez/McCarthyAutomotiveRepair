@@ -160,7 +160,7 @@ export default function Home({ onNavigate }: HomeProps) {
       <section className="relative h-[70vh] lg:h-[72vh] flex items-center">
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/Images/20260326_105129.jpg"
+            src="/src/Images/20260326_105322.jpg"
             alt="Professional automotive repair"
             className="w-full h-full object-cover"
           />
