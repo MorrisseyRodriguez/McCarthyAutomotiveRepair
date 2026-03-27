@@ -308,7 +308,7 @@ export default function Home({ onNavigate }: HomeProps) {
                 <img
                   src="/images/ase-logo-1A2E60A58F-seeklogo.com.png"
                   alt="ASE Certified Logo"
-                  className="h-32 w-auto"
+                  className="h-40 w-auto"
                 />
               </div>
               <h3 className="text-xl font-bold text-gray-900">ASE Certified</h3>
