@@ -80,7 +80,7 @@ export default function Footer({ onNavigate }: FooterProps) {
                 className="bg-red-600 px-4 py-3 rounded hover:bg-red-700 transition-colors flex items-center gap-2"
                 aria-label="Yelp"
               >
-                <img src="/src/Images/yelp.png" alt="Yelp" className="h-5" />
+                <img src="/images/yelp.png" alt="Yelp" className="h-5" />
                 <span className="text-white font-semibold">Yelp</span>
               </a>
             </div>
