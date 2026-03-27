@@ -15,8 +15,14 @@ export default function About() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
             <div className="order-1 lg:order-1">
+              <p className="text-lg text-gray-700 leading-relaxed mb-6">
+                With a combined 80 years of experience, Larry Whitcomb has built McCarthy Automotive Repair on one simple principle, take care of people the right way. Larry's background started in the Air Force, where he worked on cars and trucks for three years. He then spent five years as a mechanic for the city of Brea, working on everything from fire trucks to small equipment, followed by over 20 years in mobile automotive repair.
+              </p>
+              <p className="text-lg text-gray-700 leading-relaxed mb-6">
+                Alongside him, Francisco and Joule each bring over 16 years of experience and hold multiple certifications, adding even more depth and expertise to the team.
+              </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                With a combined 80 years of service and experience by the team, Larry Whitcomb has built McCarthy Automotive Repair on one simple principle, take care of people the right way. When you bring your car in, you're not getting guesswork, upsells, or runaround. You're getting straight answers from someone who's spent decades diagnosing and fixing real problems on every type of vehicle, foreign, domestic, diesel, electrical, you name it. Whether it's routine maintenance or something more serious, you'll know exactly what's wrong, what it takes to fix it, and what it's going to cost. No surprises, no pressure, only honest work that gets you back on the road.
+                When you bring your car in, you're not getting guesswork, upsells, or runaround. You're getting straight answers from a team that's spent decades diagnosing and fixing real problems on every type of vehicle, foreign, domestic, diesel, electrical, you name it. Whether it's routine maintenance or something more serious, you'll know exactly what's wrong, what it takes to fix it, and what it's going to cost. No surprises, no pressure, only honest work that gets you back on the road.
               </p>
             </div>
             <div className="order-2 lg:order-2">
