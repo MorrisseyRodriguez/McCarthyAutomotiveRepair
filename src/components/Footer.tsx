@@ -1,4 +1,4 @@
-import { MapPin, Phone, Wrench } from 'lucide-react';
+import { MapPin, Phone, Wrench, Instagram } from 'lucide-react';
 
 interface FooterProps {
   onNavigate: (page: string) => void;
@@ -82,6 +82,16 @@ export default function Footer({ onNavigate }: FooterProps) {
               >
                 <img src="/images/yelp.png" alt="Yelp" className="h-5" />
                 <span className="text-white font-semibold">Yelp</span>
+              </a>
+              <a
+                href="https://www.instagram.com/mccarthyautomotiverepair/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-gradient-to-r from-purple-600 via-pink-600 to-orange-600 px-4 py-3 rounded hover:from-purple-700 hover:via-pink-700 hover:to-orange-700 transition-colors flex items-center gap-2"
+                aria-label="Instagram"
+              >
+                <Instagram className="text-white" size={20} />
+                <span className="text-white font-semibold">Instagram</span>
               </a>
             </div>
           </div>
