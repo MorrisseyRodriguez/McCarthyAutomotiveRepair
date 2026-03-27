@@ -147,27 +147,27 @@ export default function Footer({ onNavigate }: FooterProps) {
             <div className="space-y-2 text-gray-300 mt-4">
               <div className="flex justify-between gap-8">
                 <span>Monday:</span>
-                <span className="text-right">8:00AM - 6:00PM</span>
+                <span className="text-right">8:00AM - 5:00PM</span>
               </div>
               <div className="flex justify-between gap-8">
                 <span>Tuesday:</span>
-                <span className="text-right">8:00AM - 6:00PM</span>
+                <span className="text-right">8:00AM - 5:00PM</span>
               </div>
               <div className="flex justify-between gap-8">
                 <span>Wednesday:</span>
-                <span className="text-right">8:00AM - 6:00PM</span>
+                <span className="text-right">8:00AM - 5:00PM</span>
               </div>
               <div className="flex justify-between gap-8">
                 <span>Thursday:</span>
-                <span className="text-right">8:00AM - 6:00PM</span>
+                <span className="text-right">8:00AM - 5:00PM</span>
               </div>
               <div className="flex justify-between gap-8">
                 <span>Friday:</span>
-                <span className="text-right">8:00AM - 6:00PM</span>
+                <span className="text-right">8:00AM - 5:00PM</span>
               </div>
               <div className="flex justify-between gap-8">
                 <span>Saturday:</span>
-                <span className="text-right">8:00AM - 5:00PM</span>
+                <span className="text-right font-semibold">CLOSED</span>
               </div>
               <div className="flex justify-between gap-8">
                 <span>Sunday:</span>
